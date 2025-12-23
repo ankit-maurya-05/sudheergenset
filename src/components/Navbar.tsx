@@ -145,7 +145,7 @@ export default function Navbar() {
 
           {/* CALL BUTTON MOBILE */}
           <a
-            href="tel:+919876543210"
+            href="tel:+9198763210"
             className="mt-6 flex items-center justify-center gap-2 bg-[#C4161C] text-white px-4 py-3 rounded-md font-semibold hover:bg-red-700 transition"
           >
             <Phone size={18} />

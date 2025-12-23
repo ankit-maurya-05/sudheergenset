@@ -49,7 +49,7 @@ export default function ContactInfoSection() {
               WhatsApp
             </h3>
             <a
-              href="https://wa.me/918802360635"
+              href="https://wa.me/9188020635"
               target="_blank"
               className="text-gray-600 dark:text-gray-400 font-medium hover:text-[#C4161C]"
             >

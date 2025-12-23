@@ -90,7 +90,7 @@ export default function Home() {
       w-full sm:w-auto
     "
   >
-    📞 Call: 8802360635
+    📞 Call: 88023635
   </a>
 </div>
 </div>

@@ -70,7 +70,7 @@ export default function EnterpriseLeadPopup() {
           {/* Actions */}
           <div className="flex flex-col gap-3">
             <a
-              href="tel:8802360635"
+              href="tel:88060635"
               className="flex items-center justify-center gap-2 bg-[#C4161C] text-white py-3 rounded-lg font-semibold hover:bg-red-700 transition"
             >
               <Phone size={18} />
@@ -78,7 +78,7 @@ export default function EnterpriseLeadPopup() {
             </a>
 
             <a
-              href="https://wa.me/918802360635"
+              href="https://wa.me/9182360635"
               target="_blank"
               rel="noopener noreferrer"
               className="flex items-center justify-center gap-2 bg-[#25D366] text-white py-3 rounded-lg font-semibold hover:bg-green-600 transition"
