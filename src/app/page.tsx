@@ -43,7 +43,7 @@ export default function Home() {
           <div className="order-2 lg:order-1">
             <h1 className="text-4xl md:text-5xl font-bold text-[#111827] dark:text-white leading-tight mb-6">
   Reliable Diesel Generator <br className="hidden sm:block" />
-  Rental & Services Across India
+  Rental & Services Across UttarPardesh
 </h1>
 
 
