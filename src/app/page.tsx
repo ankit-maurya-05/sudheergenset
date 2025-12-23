@@ -49,7 +49,7 @@ export default function Home() {
 
             <p className="text-lg text-[#1F2937] dark:text-gray-300 mb-4">
               10 KVA to 2500 KVA | Silent & Open Models | Same Day Delivery |
-              Pan-India Services and Rental
+              Pan-UttarPardesh Services and Rental
             </p>
 
             <div className="flex flex-wrap gap-6 mt-6 mb-10 text-[#1F2937] dark:text-gray-300">
